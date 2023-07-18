@@ -13,3 +13,6 @@ The goal of this project is three-fold:
 • Ranking players
 • Predicting their positions
 • Finding clubs with best staffs.
+[Poster.pdf](https://github.com/neha013/Let-s-play-FIFA/files/12081858/Poster.pdf)
+
+To access the detailed project presentation, please click [here](https://docs.google.com/presentation/d/1VPQp6_PT6QeM7YKr_oY5YFYY77b_Zq99/edit?usp=sharing&ouid=111376598051286271837&rtpof=true&sd=true)
